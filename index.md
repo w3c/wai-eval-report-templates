@@ -5,28 +5,18 @@ permalink: '/test-evaluate/evaluation-template/'
 ---
 
 This document presents a recommended format for communicating results of
-the evaluation of website accessibility according to the Web Content
+the evaluation of website accessibility according to Web Content
 Accessibility Guidelines (WCAG) 2.0. A consistent and comprehensive
 evaluation report format can help ensure effective evaluations as well
 as accurate comparisons of accessibility levels over time and between
 different websites.
 
-Note that you can also use the [evaluation report tool
-generator](https://www.w3.org/WAI/eval/report-tool/#/), an interactive
-tool that leads you through a manual accessibility evaluation, to create
-an accessibility report based on the [WCAG Evaluation
-Methodology](https://www.w3.org/TR/WCAG-EM/).
-
 Suggested items in the report format may vary depending the context.
 Words in brackets \[...\] are intended to be filled in with information
 from the actual review. Related documents describing the evaluation
-method, and organization of review teams, are listed in the References
+method and organization of review teams are listed in the References
 section below.
 
-If you are new to web accessibility you may want to start with [Easy
-Checks - A First Review of Web
-Accessibility](https://www.w3.org/WAI/eval/preliminary.html) to learn
-the first steps of evaluating the accessibility of a web page.
 
 ## Template {#template}
 
@@ -46,27 +36,25 @@ the first steps of evaluating the accessibility of a web page.
 
 ### 1. Executive Summary {#summary}
 
-This report describes the conformance of the \_\_\_\_\_\_\_ website
-with [W3C's Web Content Accessibility Guidelines (WCAG) 2.0](#wcag20).
-The review process is described in Section 5 below and is based on the
-W3C's Conformance Evaluation method as described in [Evaluating Web
-Sites for Accessibility](#eval).
+This report describes the conformance of the \_\_\_\_\_\_\_ website with
+[W3C's Web Content Accessibility Guidelines
+(WCAG)](https://www.w3.org/WAI/intro/wcag). The review process is
+described in Section 5 below and is based on evaluation described in
+[Accessibility Evaluation Resources](https://www.w3.org/WAI/eval/).
 
-Based on this evaluation, the \_\_\_\_\_\_\_\_ website \[meets/does
-not meet/is close to meeting\] WCAG 2.0, Conformance Level AA. Detailed
+Based on this evaluation, the \_\_\_\_\_\_\_\_ website \[meets/ does not
+meet/ is close to meeting\] WCAG 2.0, Conformance Level AA. Detailed
 review results are available in Section 6 below. Resources for follow-up
 study are listed in Section 7 below. Feedback on this evaluation is
 welcome.
 
 ### 2. Background about Evaluation {#background}
 
-Conformance evaluation of Web accessibility requires a combination of
-[semi-automated evaluation tools](#tools) and manual evaluation by an
-experienced reviewer. The evaluation results in this report are based on
-evaluation conducted on the following date(s): \_\_\_\_\_\_\_. The Web
-site may have changed since that time. Additional information on the
-evaluation process is available in [Evaluating websites for
-Accessibility](#eval).
+Conformance evaluation of web accessibility requires a combination of
+[semi-automated evaluation tools](https://www.w3.org/WAI/ER/tools/) and
+manual evaluation by an experienced reviewer. The evaluation results in
+this report are based on evaluation conducted on the following date(s):
+\_\_\_\_\_\_\_. The website may have changed since that time.
 
 ### 3. Scope of Review {#website}
 
@@ -90,43 +78,39 @@ Accessibility](#eval).
 -   \[Contact information for reviewer(s) or reviewer(s) organization,
     unless anonymous\]\
 -   \[Reviewer(s) areas of expertise, by reference to "expertise of
-    review teams" in [Review Teams for Evaluating website
-    Accessibility](#reviewteams)\]
+    review teams" in [Using Combined Expertise to Evaluate Web
+    Accessibility](https://www.w3.org/WAI/eval/reviewteams)\]
 -   \[Natural language(s) with which reviewer(s) is/are fluent, or
     familiar\]
 
 ### 5. Review Process {#process}
 
--   \[Identify WCAG 2.0 Level for which conformance was tested, e.g.
-    WCAG 2.0 Level A, Double A, Triple A\]
--   \[Used [WCAG 2.0 checklist](#checklist) (essential)\]
--   \[Identify [evaluation and validation tools](#tools) used, and
-    versions thereof\]
--   \[Describe the [testing environment: i.e. browsers, assistive
-    technology and user agents used in
-    evaluation](https://www.w3.org/TR/WCAG-EM/#step1c)\]
+-   \[Identify WCAG 2.0 Level for which conformance was tested, e.g.,
+    WCAG 2.0 Level A, AA, AAA\]
+-   \[Identify [evaluation and validation
+    tools](https://www.w3.org/WAI/ER/tools/) used, and versions
+    thereof\]
 -   \[Description of manual reviews (usability testing of accessibility
-    features) used\]
+    features) used\]s
 
 ### 6. Results and Recommended Actions {#results}
 
 -   \[Interpretative summary of review results\]
     -   \[e.g. this website appears to \[meet/ not meet/ is close to
-        meeting\] WCAG 2.0 Level A, Double A, Triple A, etc.\]
+        meeting\] WCAG 2.0 A, AA, AAA\]
     -   \[accessibility features in which this site is strong include
         \_\_\_\_\_\_\_\]
     -   \[recommended priorities for addressing inaccessible features of
         site\]
--   \[Detailed results, structured according to WCAG 2.0 Checklist\]
-    -   \[include links to WCAG 2.0 Checkpoints and Techniques for all
-        non-conformant items\]
+-   \[Detailed results, structured according to WCAG 2.0\]
+    -   \[include links to WCAG 2.0 success criteria and techniques for
+        all non-conformant items\]
     -   \[attach or link to specific reports in appendices, e.g. output
         of validators and evaluation tools\]
     -   \[provide recommendations for addressing non-conformant
         checkpoints\]
 -   \[Describe or point to a suggested program of on-going monitoring of
-    website accessibility, re-evaluation of [authoring
-    tools](#authoring), etc.\]
+    website accessibility, re-evaluation of authoring tools, etc.\]
 
 ### 7. References {#references}
 
