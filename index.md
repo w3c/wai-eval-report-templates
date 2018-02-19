@@ -130,28 +130,24 @@ Accessibility](#eval).
 
 ### 7. References {#references}
 
--   {:#wcag20} [Web Content Accessibility Guidelines
-    2.0](http://www.w3.org/TR/WCAG20/) <br> &lt;http://www.w3.org/TR/WCAG20/&gt;
--   {:#checklist}[Checklist for Web Content Accessibility Guidelines
-    2.0](http://www.w3.org/TR/WCAG20/full-checklist.html)<br>
-    &lt;http://www.w3.org/TR/WCAG20/full-checklist.html&gt;
--   {:#techs}[Techniques for Web Content Accessibility Guidelines
-    2.0](http://www.w3.org/TR/WCAG10-TECHS/)<br>
-    &lt;http://www.w3.org/TR/WCAG20-TECHS/&gt;
--   {:#eval}[Evaluating websites for
-    Accessibility](http://www.w3.org/WAI/eval/)<br>
-    &lt;http://www.w3.org/WAI/eval/&gt;
--   {:#tools}[Evaluation, Repair, and Transformation Tools for Web
-    Content Accessibility](http://www.w3.org/WAI/ER/existingtools.html)<br>
-    &lt;http://www.w3.org/WAI/ER/existingtools.html&gt;
--   {:#authoring}[Selecting and Using Authoring Tools for Web
-    Accessibility](http://www.w3.org/WAI/EO/Drafts/impl/software5.html)
-    \[draft\]<br>
-    &lt;http://www.w3.org/WAI/EO/Drafts/impl/software5.html&gt;
--   {:#reviewteams}[Review Teams for Evaluating website
-    Accessibility](http://www.w3.org/WAI/EO/Drafts/review/reviewteams.html)
-    \[draft\]<br>
-    &lt;http://www.w3.org/WAI/EO/Drafts/review/reviewteams.html&gt;
+-   {:#wcag-overview} [Web Content Accessibility Guidelines (WCAG)
+    Overview](https://www.w3.org/WAI/intro/wcag)<br>
+    https://www.w3.org/WAI/intro/wcag
+-   {:#wcag} [Web Content Accessibility Guidelines
+    2.0](https://www.w3.org/TR/WCAG20/)<br>
+    https://www.w3.org/TR/WCAG20/
+-   {:#techs} [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/)<br>
+    https://www.w3.org/TR/WCAG20-TECHS/
+-   {:#eval} [Accessibility Evaluation Resources](http://www.w3.org/WAI/eval/)<br>
+    http://www.w3.org/WAI/eval/
+-   {:#tools} [Web Accessibility Evaluation Tools
+    List](https://www.w3.org/WAI/ER/tools/)<br>
+    https://www.w3.org/WAI/ER/tools/
+-   {:#reviewteams} [Using Combined Expertise to Evaluate Web
+    Accessibility](https://www.w3.org/WAI/eval/reviewteams)<br>
+    https://www.w3.org/WAI/eval/reviewteams
+
+
 
 ### 8. Appendices {#appendix}
 
