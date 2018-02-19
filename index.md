@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Template for Accessibility Evaluation Reports"
-permalink: '/test-eval/evaluation-template/'
+permalink: '/test-evaluate/evaluation-template/'
 ---
 
 This document presents a recommended format for communicating results of
