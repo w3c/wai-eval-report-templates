@@ -41,7 +41,7 @@ section below.
 
 This report describes the conformance of the \_\_\_\_\_\_\_ website with
 [W3C's Web Content Accessibility Guidelines
-(WCAG)](https://www.w3.org/WAI/intro/wcag). The review process is
+(WCAG)]({{ "/standards-guidelines/wcag/" | relative_url }}). The review process is
 described in Section 5 below and is based on evaluation described in
 [Accessibility Evaluation Resources](https://www.w3.org/WAI/eval/).
 
@@ -118,7 +118,7 @@ this report are based on evaluation conducted on the following date(s):
 ### 7. References {#references}
 
 -   {:#wcag-overview} [Web Content Accessibility Guidelines (WCAG)
-    Overview](https://www.w3.org/WAI/intro/wcag)<br>
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})<br>
     https://www.w3.org/WAI/intro/wcag
 -   {:#wcag} [Web Content Accessibility Guidelines
     2.0](https://www.w3.org/TR/WCAG20/)<br>
