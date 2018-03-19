@@ -2,6 +2,8 @@
 layout: default
 title: "Template for Accessibility Evaluation Reports"
 permalink: '/test-evaluate/report-template/'
+github:
+  repository: w3c/wai-eval-report-templates
 footer: >
   <p><strong>Status:</strong> Versions and links updated January 2018. Substantive content updated 2002.<br>
   Editor: Judy Brewer. Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
