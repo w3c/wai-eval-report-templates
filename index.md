@@ -6,7 +6,7 @@ github:
   repository: w3c/wai-eval-report-templates
 footer: >
   <p><strong>Date:</strong> Versions and links updated January 2018. Substantive content updated 2002.</p>
-  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Brewer">Judy Brewe</a>.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Brewer">Judy Brewer</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 ---
