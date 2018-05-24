@@ -5,7 +5,7 @@ permalink: '/test-evaluate/report-template/'
 github:
   repository: w3c/wai-eval-report-templates
 footer: >
-  <p><strong>Date:</strong> Versions and links updated January 2018. Substantive content updated 2002.</p>
+  <p><strong>Date:</strong> Versions and links updated May 2018. Substantive content updated 2002.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Brewer">Judy Brewer</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -13,7 +13,7 @@ footer: >
 
 This document presents a recommended format for communicating results of
 the evaluation of website accessibility according to Web Content
-Accessibility Guidelines (WCAG) 2.0. A consistent and comprehensive
+Accessibility Guidelines (WCAG) 2. A consistent and comprehensive
 evaluation report format can help ensure effective evaluations as well
 as accurate comparisons of accessibility levels over time and between
 different websites.
@@ -50,7 +50,7 @@ described in Section 5 below and is based on evaluation described in
 [Accessibility Evaluation Resources](https://www.w3.org/WAI/eval/).
 
 Based on this evaluation, the \_\_\_\_\_\_\_\_ website \[meets/ does not
-meet/ is close to meeting\] WCAG 2.0, Conformance Level AA. Detailed
+meet/ is close to meeting\] WCAG 2.1, Conformance Level AA. Detailed
 review results are available in Section 6 below. Resources for follow-up
 study are listed in Section 7 below. Feedback on this evaluation is
 welcome.
@@ -92,8 +92,8 @@ this report are based on evaluation conducted on the following date(s):
 
 ### 5. Review Process {#process}
 
--   \[Identify WCAG 2.0 Level for which conformance was tested, e.g.,
-    WCAG 2.0 Level A, AA, AAA\]
+-   \[Identify WCAG 2.1 Level for which conformance was tested, e.g.,
+    WCAG 2.1 Level A, AA, AAA\]
 -   \[Identify [evaluation and validation
     tools](https://www.w3.org/WAI/ER/tools/) used, and versions
     thereof\]
@@ -104,13 +104,13 @@ this report are based on evaluation conducted on the following date(s):
 
 -   \[Interpretative summary of review results\]
     -   \[e.g. this website appears to \[meet/ not meet/ is close to
-        meeting\] WCAG 2.0 A, AA, AAA\]
+        meeting\] WCAG 2.1 A, AA, AAA\]
     -   \[accessibility features in which this site is strong include
         \_\_\_\_\_\_\_\]
     -   \[recommended priorities for addressing inaccessible features of
         site\]
--   \[Detailed results, structured according to WCAG 2.0\]
-    -   \[include links to WCAG 2.0 success criteria and techniques for
+-   \[Detailed results, structured according to WCAG 2.1\]
+    -   \[include links to WCAG 2.1 success criteria and techniques for
         all non-conformant items\]
     -   \[attach or link to specific reports in appendices, e.g. output
         of validators and evaluation tools\]
@@ -125,10 +125,10 @@ this report are based on evaluation conducted on the following date(s):
     Overview]({{ "/standards-guidelines/wcag/" | relative_url }})<br>
     https://www.w3.org/WAI/intro/wcag
 -   {:#wcag} [Web Content Accessibility Guidelines
-    2.0](https://www.w3.org/TR/WCAG20/)<br>
-    https://www.w3.org/TR/WCAG20/
--   {:#techs} [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/)<br>
-    https://www.w3.org/TR/WCAG20-TECHS/
+    2.1](https://www.w3.org/TR/WCAG20/)<br>
+    https://www.w3.org/TR/WCAG21/
+-   {:#techs} [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/)<br>
+    https://www.w3.org/WAI/WCAG21/Techniques/
 -   {:#eval} [Accessibility Evaluation Resources](http://www.w3.org/WAI/eval/)<br>
     http://www.w3.org/WAI/eval/
 -   {:#tools} [Web Accessibility Evaluation Tools
