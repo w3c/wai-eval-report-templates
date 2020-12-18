@@ -1,5 +1,1 @@
-# wai-resource-template
-
-Fork this repository to create a new resource.
-
-More documentation to come!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/520892d7-a050-4c30-9d73-a14c75a17640/deploy-status)](https://app.netlify.com/sites/wai-eval-report-templates/deploys)
