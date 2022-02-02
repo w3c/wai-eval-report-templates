@@ -5,11 +5,24 @@ permalink: '/test-evaluate/report-template/'
 github:
   repository: w3c/wai-eval-report-templates
 footer: >
-  <p><strong>Date:</strong> Versions and links updated May 2018. Substantive content updated 2002.</p>
+  <p><strong>Date:</strong> Substantive content updated 2002. Versions and links updated May 2018. Link to Report Tool added February 2022.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Brewer">Judy Brewer</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 ---
+
+{::nomarkdown}
+{% include box.html type="start" title="Updated Template" icon="default" %}
+{:/}
+
+More robust information on evaluation reports is in the **[WCAG-EM Report Tool](/eval/report-tool/)**.<br>From there you can:
+* Go through the pages to get explanations for each field. Click the "+" buttons to show info.
+* Use the [blank report as a template](https://www.w3.org/WAI/eval/report-tool/evaluation/view-report). Click the "Download Report (HTML)" button.
+* Enter your information in the tool and it will generate a report for you.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 This document presents a recommended format for communicating results of
 the evaluation of website accessibility according to Web Content
