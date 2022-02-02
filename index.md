@@ -12,10 +12,13 @@ footer: >
 ---
 
 {::nomarkdown}
-{% include box.html type="start" title="Dated" icon="default" %}
+{% include box.html type="start" title="Updated Template" icon="default" %}
 {:/}
 
-**For more robust information on evaluation reports, see the [WCAG-EM Report Tool](/eval/report-tool/). You can enter your information in the tool and it will generate a report for you. You can also get a [blank report that you can use as a template](https://www.w3.org/WAI/eval/report-tool/evaluation/view-report).**
+More robust information on evaluation reports is in the [WCAG-EM Report Tool](/eval/report-tool/). From there you can:
+* Go through the pages to get explanations for each field. Click the "+" buttons to show info.
+* Use the [blank report as a template](https://www.w3.org/WAI/eval/report-tool/evaluation/view-report). Click the "Download Report (HTML)" button.
+* Enter your information in the tool and it will generate a report for you.
 
 {::nomarkdown}
 {% include box.html type="end" %}
