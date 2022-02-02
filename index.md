@@ -1,6 +1,6 @@
 ---
 layout: default
-lang:en
+lang: en
 title: "Template for Accessibility Evaluation Reports"
 permalink: '/test-evaluate/report-template/'
 github:
