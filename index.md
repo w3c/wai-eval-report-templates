@@ -9,7 +9,6 @@ footer: >
   <p><strong>Date:</strong> Substantive content updated 2002. Versions and links updated May 2018. Link to Report Tool added February 2022.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Brewer">Judy Brewer</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-
 ---
 
 {::nomarkdown}
