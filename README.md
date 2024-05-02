@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/520892d7-a050-4c30-9d73-a14c75a17640/deploy-status)](https://app.netlify.com/sites/wai-eval-report-templates/deploys)
+> [!IMPORTANT]
+> This repository has been archived 2 May 2024.
+>
+> [Template for Accessibility Evaluation Reports](https://www.w3.org/WAI/test-evaluate/report-template/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
